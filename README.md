@@ -72,12 +72,12 @@ this is step is very important i have uplaod my server file in php which is resp
 </pre>
 
 # Links
-<pre>
-You will notice some similarities in some lines between this project and these links because
-I did not rely on only one source until I was able to complete the project in this way.
-[Link 1 ](https://github.com/FirebaseExtended/flutterfire/blob/111c5b02945b3668016bb55b14e88a637769a1b3/packages/firebase_messaging/README.md#optionally-handle-background-messages)
-[Link 1 ](https://codesundar.com/flutter-push-notification/)
-[Link 1 ](https://www.freecodecamp.org/news/how-to-add-push-notifications-to-flutter-app/)
-[Link 1 ](https://www.djamware.com/post/5e4b26e26cdeb308204b427f/flutter-tutorial-firebase-cloud-messaging-fcm-push-notification#flutterfire-firebase_messaging)
-</pre>
+
+You will notice some similarities in some lines between this project and these links because</br>
+I did not rely on only one source until I was able to complete the project in this way.</br>
+[Link 1 ](https://github.com/FirebaseExtended/flutterfire/blob/111c5b02945b3668016bb55b14e88a637769a1b3/packages/firebase_messaging/README.md#optionally-handle-background-messages)</br>
+[Link 2 ](https://codesundar.com/flutter-push-notification/)</br>
+[Link 3 ](https://www.freecodecamp.org/news/how-to-add-push-notifications-to-flutter-app/)</br>
+[Link 4 ](https://www.djamware.com/post/5e4b26e26cdeb308204b427f/flutter-tutorial-firebase-cloud-messaging-fcm-push-notification#flutterfire-firebase_messaging)</br>
+
 
