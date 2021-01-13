@@ -15,7 +15,7 @@
 
 ## Getting Started
 
-This project is a sample example for pushing payload notification at the i will put all links which i learned from 
+This project is a sample example for pushing payload notification and i will put all links which i learned from 
 this project works perfectly on android platform but for ios i have not the requirement for it
 
 # setp 1 
